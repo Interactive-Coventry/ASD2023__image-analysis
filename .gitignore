@@ -1,0 +1,7 @@
+~*.docx
+.ipynb_checkpoints/*.ipynb
+*/.ipynb_checkpoints/*.ipynb
+*checkpoint.pth
+*.pyc
+.idea/*
+*/~*.tmp
