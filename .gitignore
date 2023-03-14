@@ -5,3 +5,5 @@
 *.pyc
 .idea/*
 */~*.tmp
+*.pkl
+dataset_1_jpaladin/cfg/yolov3-openimages.weights

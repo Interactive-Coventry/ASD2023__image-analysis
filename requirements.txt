@@ -7,5 +7,7 @@ matplotlib
 scikit-learn
 typing
 pillow
-
+opencv-python
+fastai
+numpy
 
