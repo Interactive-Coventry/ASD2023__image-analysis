@@ -1,14 +1,3 @@
-# asd-image-analysis
-Analysis of the DREAM dataset
+# Image analys for children with ASD
 
-Labels:
-* Communication 1-5
-* Interaction 1-5
-* Play 1-5
-
-Specs:
-* Stereotype 
-* Totals
-* Condition
-* Task ability
-* Task difficulty
+Emotion detection from images of faces
